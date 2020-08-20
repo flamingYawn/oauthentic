@@ -37,7 +37,7 @@
     "@types/signale": "^1.2.1",
     "@types/webpack-env": "^1.13.7",
     "babel-loader": "7.1.4",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "connect-ensure-login": "^0.1.1",
     "connect-redis": "^3.4.1",
