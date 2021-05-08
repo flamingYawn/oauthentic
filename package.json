@@ -59,7 +59,7 @@
     "signale": "^1.4.0",
     "ts-node": "^8.1.0",
     "tslint": "^5.12.1",
-    "typeorm": "^0.2.16",
+    "typeorm": "^0.2.25",
     "typescript": "^3.3.3333"
   },
   "devDependencies": {
